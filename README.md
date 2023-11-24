@@ -1,4 +1,4 @@
 Hi, I'm (Real) CatDev.
 
-- Professional Idiot and Cat lover,
+- Not an expirenced C++ developer
 - I like butter
