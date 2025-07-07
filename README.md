@@ -1,4 +1,3 @@
-Hi, I'm (Real) CatDev.
+# CHP
 
-- Not an expirenced C++ developer
-- I like butter
+Oi! I am CHP (C Hating Python), a polish C and C++ programmer. I use MinGW btw.
