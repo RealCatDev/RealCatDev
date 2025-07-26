@@ -1,3 +1,6 @@
 # CHP
 
-Oi! I am CHP (C Hating Python), a polish C and C++ programmer. I use MinGW btw.
+Oi! I am CHP (C Hating Python) - young, polish C/C++ programmer.
+I use MinGW btw.
+
+- Rust tools are no use
